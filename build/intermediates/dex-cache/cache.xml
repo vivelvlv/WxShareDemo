@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vive/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/1.1.6/3973d7856aaa0b1a329c2508d0252dfa27bc6780/wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3973d7856aaa0b1a329c2508d0252dfa27bc6780">
+        <dex dex="/Users/vive/Downloads/WeChatSDK_sample_Android_5.0-0.2/WeChatSDK_sample_Android/app/build/intermediates/pre-dexed/debug/wechat-sdk-android-with-mta-1.1.6-373e6be2c824dcef871ed0ce14da6062e48d242c.jar" />
+    </item>
+
+</items>
